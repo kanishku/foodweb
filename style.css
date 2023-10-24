@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: rgb(14, 143, 100);
+    width: 100%;
+    height: 50px;
+    font-family:   'Dancing Script', cursive;
+    font-size: 30px;
+}
+.taste{
+    background-image: url(https://e0.pxfuel.com/wallpapers/454/411/desktop-wallpaper-mexican-food-kerala-food.jpg);
+    width: 1500px;
+    height: 500px;
+    background-size: cover;
+}
+.h{
+    color: blue;
+}
+.food{
+    background-color:rgb(156, 81, 81);
+    width: 100%;
+    height:500px ;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.one{
+    background-color: rgb(112, 50, 50);
+    width: 280px;
+    height: 450px;
+    margin-left: 10px;
+}
+img{
+    height: 250px;
+    padding: 10px;
+    border-radius: 10%;
+}
+h4,h5{
+    text-align: center;
+    color: rgb(222, 220, 255)
+}
+#btn{
+    color:rgb(17, 12, 4);
+    width: 80px;
+    background-color:rgb(226, 180, 93);
+    padding: 5px;
+    margin-left: 100px;
+}
+.two{
+    background-color: rgb(112, 50, 50);
+    width: 280px;
+    height: 450px;
+    margin-left: 10px;
+}
+.three{
+    background-color: rgb(112, 50, 50);
+    width: 280px;
+    height: 450px;
+    margin-left: 10px;
+
+}
+.four{
+    background-color: rgb(112, 50, 50);
+    width: 280px;
+    height: 450px;
+    margin-left: 10px;
+
+}
+.five{
+    background-color: rgb(112, 50, 50);
+    width: 280px;
+    height: 450px;
+    margin-left: 10px;
+
+}
+.fish{
+    background-color:rgb(112, 50, 50);
+    width: 100%;
+    height:500px ;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.k{
+
+ background-color: rgb(112, 50, 50);
+    width: 280px;
+    height: 450px;
+    margin-left: 10px;
+}
+.a{
+    background-color: rgb(112, 50, 50);
+    width: 180px;
+    height: 450px;
+    margin-left: 10px;
+}
+.n{
+    background-color: rgb(112, 50, 50);
+    width: 280px;
+    height: 450px;
+    margin-left: 10px;
+}
+.i{
+    background-color: rgb(112, 50, 50);
+    width: 280px;
+    height: 450px;
+    margin-left: 10px;
+}
+.s{
+    background-color: rgb(112, 50, 50);
+    width: 280px;
+    height: 450px;
+    margin-left: 10px;
+}
+.h{
+    background-color: rgb(112, 50, 50);
+    width: 280px;
+    height: 450px;
+    margin-left: 10px;
+}
+footer,p{
+    background-color: rgb(7, 80, 56);
+    width: 100%;
+    height: 50px;
+    color: rgb(5, 1, 19);
+  }
+.ku{
+    background-color: rgb(15, 4, 53);
+  }
